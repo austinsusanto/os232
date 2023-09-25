@@ -22,3 +22,12 @@ A full playlist explaining Vim usage and commands to help mastering Vim.
 
 * [Linux Crash Course - Understanding File & Directory Permissions](https://www.youtube.com/watch?v=4e669hSjaX8) ---
 Full explanation about file permissions on Linux and how to give & remove user/group permissions.
+<hr>
+<br>
+
+## WEEK 3
+* [Linux Crash Course - Formatting & Mounting Storage Volumes](https://www.youtube.com/watch?v=2Z6ouBYfZr8) ---
+A video tutorial on Linux drive formatting and mounting or unmounting additional storage volumes.
+
+* [Linux Crash Course - The /etc/fstab file](https://www.youtube.com/watch?v=A7xH74o6kY0) ---
+A full explanation of the /etc/fstab file we used in the third weekly assignment
