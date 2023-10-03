@@ -31,3 +31,12 @@ A video tutorial on Linux drive formatting and mounting or unmounting additional
 
 * [Linux Crash Course - The /etc/fstab file](https://www.youtube.com/watch?v=A7xH74o6kY0) ---
 A full explanation of the /etc/fstab file we used in the third weekly assignment
+<hr>
+<br>
+
+## WEEK 4
+* [C Programming for Beginners](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) ---
+A full video tutorial on the C programming language from beginner to intermidiate knowledge.
+
+* [The Linux Filesystem Explained | How Each Directory is Used](https://www.youtube.com/watch?v=P0QZnAnsQ4c) ---
+An overview and explanation of the Linux filesystem and the top-level directories.
