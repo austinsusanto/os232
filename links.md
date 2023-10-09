@@ -40,3 +40,12 @@ A full video tutorial on the C programming language from beginner to intermidiat
 
 * [The Linux Filesystem Explained | How Each Directory is Used](https://www.youtube.com/watch?v=P0QZnAnsQ4c) ---
 An overview and explanation of the Linux filesystem and the top-level directories.
+<hr>
+<br>
+
+## WEEK 5
+* [How to use Top Command | Linux Tutorials for beginners](https://www.youtube.com/watch?v=tAe3MPh5sNg) ---
+A detailed explanation on how to use the top command on Linux terminal.
+
+* [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w) ---
+Simple and short video about useful Linux commands.
