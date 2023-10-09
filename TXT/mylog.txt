@@ -42,3 +42,12 @@ ZCZC W04 20 L03 Used GitHub to pull, commit, add, and push assignment files
 ZCZC W04 30 L04 Finding & adding links to links.md
 ZCZC W04 100 L06 Reading and watching video sources
 ZCZC W04 120 L12 Working on assignments including Pop Quiz on Scele
+
+ZCZC W05 25 L01 Reading SCELE instructions & announcements
+ZCZC W05 100 L02 Attended Tuesday's class
+ZCZC W05 100 L02 Attended Thursday's asynchronous class & finished the assignment
+ZCZC W05 20 L03 Used GitHub to pull, commit, add, and push assignments files
+ZCZC W05 30 L04 Finding & adding links to links.md
+ZCZC W05 10 L05 Quiz 05
+ZCZC W05 40 L06 Reading and watching video sources
+ZCZC W05 150 L12 Working on assignments including Pop Quiz on SCELE
