@@ -51,3 +51,12 @@ ZCZC W05 30 L04 Finding & adding links to links.md
 ZCZC W05 10 L05 Quiz 05
 ZCZC W05 40 L06 Reading and watching video sources
 ZCZC W05 150 L12 Working on assignments including Pop Quiz on SCELE
+
+ZCZC W06 30 L01 Reading SCELE instructions & announcements
+ZCZC W06 100 L02 Attended Tuesday's class
+ZCZC W06 100 L02 Attended Thursday's class
+ZCZC W06 20 L03 Used GitHub to pull, commit, add, and push assignment files
+ZCZC W06 30 L04 Finding & adding links to links.md
+ZCZC W06 10 L05 Quiz 06
+ZCZC W06 50 L06 Reading and watching video sources
+ZCZC W06 150 L12 Working on assignments including Pop Quiz on SCELE
