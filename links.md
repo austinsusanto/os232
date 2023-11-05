@@ -49,9 +49,11 @@ A detailed explanation on how to use the top command on Linux terminal.
 
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w) ---
 Simple and short video about useful Linux commands.
+<hr>
+<br>
 
 ## WEEK 6
-* [The fork() function in C]([https://www.youtube.com/watch?v=tAe3MPh5sNg](https://www.youtube.com/watch?v=cex9XrZCU14)) ---
+* [The fork function in C]([https://www.youtube.com/watch?v=tAe3MPh5sNg](https://www.youtube.com/watch?v=cex9XrZCU14)) ---
 An explanation on how to use the fork() function in C.
 
 * [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM) ---
