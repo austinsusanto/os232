@@ -53,8 +53,17 @@ Simple and short video about useful Linux commands.
 <br>
 
 ## WEEK 6
-* [The fork function in C]([https://www.youtube.com/watch?v=tAe3MPh5sNg](https://www.youtube.com/watch?v=cex9XrZCU14)) ---
+* [The fork function in C](https://www.youtube.com/watch?v=cex9XrZCU14) ---
 An explanation on how to use the fork() function in C.
 
 * [Process IDs in C](https://www.youtube.com/watch?v=PZrQ4eGm-hM) ---
 An explanation on proccess IDs in the C programming langguage and how to access them.
+<hr>
+<br>
+
+## WEEK 7
+* [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk) ---
+An explanation on threads in programming.
+
+* [How to create and join threads in C (pthreads)](https://youtu.be/uA8X5zNOGw8?si=AkR1IdolTfez-ex6) ---
+An explanation on how to use the pthreads function in C.
