@@ -67,3 +67,9 @@ An explanation on threads in programming.
 
 * [How to create and join threads in C (pthreads)](https://youtu.be/uA8X5zNOGw8?si=AkR1IdolTfez-ex6) ---
 An explanation on how to use the pthreads function in C.
+<hr>
+<br>
+
+## WEEK 8
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&pp=iAQB) ---
+A full tutorial playlist on how to build Linux from scratch (LFS).
