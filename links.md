@@ -73,3 +73,9 @@ An explanation on how to use the pthreads function in C.
 ## WEEK 8
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/watch?v=685qdaX9YQc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&pp=iAQB) ---
 A full tutorial playlist on how to build Linux from scratch (LFS).
+<hr>
+<br>
+
+## WEEK 9
+* [Linux From Scratch](linuxfromscratch.org/lfs/view/12.0/) ---
+A official website for guidance and information about Linux from scratch (LFS).
